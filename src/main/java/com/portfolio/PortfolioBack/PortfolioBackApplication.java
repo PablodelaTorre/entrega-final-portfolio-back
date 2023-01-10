@@ -18,7 +18,7 @@ public class PortfolioBackApplication {
 		return new WebMvcConfigurer() {
 			@Override
 			public void addCorsMappings(CorsRegistry registry) {
-				registry.addMapping("/**").allowedOrigins("http://localhost:4200");
+				registry.addMapping("/**").allowedOrigins("https://portfolio-front-c9459.web.app");
 			}
 		};
 	}
