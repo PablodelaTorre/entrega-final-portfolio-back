@@ -1,0 +1,11 @@
+com\portfolio\PortfolioBack\repository\PosibleEmpleadorRepository.class
+com\portfolio\PortfolioBack\service\IPosibleEmpleadorService.class
+com\portfolio\PortfolioBack\PortfolioBackApplication.class
+com\portfolio\PortfolioBack\PortfolioBackApplication$1.class
+com\portfolio\PortfolioBack\model\Usuario.class
+com\portfolio\PortfolioBack\service\IUsuarioService.class
+com\portfolio\PortfolioBack\controller\controller.class
+com\portfolio\PortfolioBack\model\PosibleEmpleador.class
+com\portfolio\PortfolioBack\repository\UsuarioRepository.class
+com\portfolio\PortfolioBack\service\PosibleEmpleadorService.class
+com\portfolio\PortfolioBack\service\UsuarioService.class
